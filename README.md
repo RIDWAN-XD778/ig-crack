@@ -18,11 +18,11 @@
        $ git clone https://github.com/RIDWAN-XD778/ig-crack
        $ cd ig-crack
        $ git pull
-       $ python ig_run.py
+       $ python ig-runV2.py
 
 <h3 align="left">PEMBELIAN LISENSI:</h3>
 
-- WAHTSAP : 083862287464
+- WAHTSAP : 089669084331
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=SELAMAT+MENCOBA+SCRIPT🌟✨🌟🙈🙉....+)
