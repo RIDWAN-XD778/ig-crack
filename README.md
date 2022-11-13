@@ -2,3 +2,4 @@
 - CHET FB/TELE KALO  BUY
 - SANTAY ADMIN FEST RESPONS
 - FB : https://www.facebook.com/danisaci.saci
+- TELE : 089669084331
